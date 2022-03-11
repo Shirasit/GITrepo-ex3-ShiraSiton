@@ -4,7 +4,7 @@ public class ShiraSiton
 	{
 		for (int i=1;i<=10; i++)
 		{
-			System.out.println("Shira Siton");
+			System.out.println("Hello People!!!!!");
 		}
 	}
 }
